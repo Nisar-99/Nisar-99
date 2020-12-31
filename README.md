@@ -11,7 +11,12 @@ Make Your Salesforce development faster using App and LWC Components.
 1. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
 2. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
 
- ⚡ Please find LWC components below.
+ ### LWC Components
+
+- ⚡ [Salesforce LWC Custom Lookup](https://github.com/Nisar-99/Salesforce-LWC-Custom-Lookup)
+- ⚡ [Salesforce LWC Datatable](https://github.com/Nisar-99/Salesforce-LWC-Datatable)
+- ⚡ [Salesforce LWC Select Option](https://github.com/Nisar-99/Salesforce-LWC-Select-option)
+- ⚡ [Salesforce LWC Custom Multifile Uploader](https://github.com/Nisar-99/LWC-Multi-File-Uploader)
 
 <!--
 **Nisar-99/Nisar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

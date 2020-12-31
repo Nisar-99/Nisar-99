@@ -7,6 +7,8 @@ Make Your Salesforce development faster using App and components. Please find be
 1. [Salesforce Assistant (Chrome Extensions)](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
 2. [LWC Snippets (VS Code)](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
 
+ ⚡ Please find LWC components below.
+
 <!--
 **Nisar-99/Nisar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

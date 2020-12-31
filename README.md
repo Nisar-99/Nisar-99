@@ -1,6 +1,6 @@
 ## Hi Salesforce Ohana👋
 
-Make Your Salesforce development faster using App and components. Please find below.
+Make Your Salesforce development faster using App and LWC Components.
 
 ### Apps
 

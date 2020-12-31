@@ -8,8 +8,8 @@ Make Your Salesforce development faster using App and LWC Components.
 
 ### Apps
 
-1. [Salesforce Assistant (Chrome Extensions)](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
-2. [LWC Snippets (VS Code)](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
+1. [Salesforce Assistant (`Chrome Extension`)](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
+2. [LWC Snippets (`VS Code Extension`)](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
 
  ⚡ Please find LWC components below.
 

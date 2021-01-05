@@ -42,14 +42,10 @@ Make Your Salesforce development faster using App and LWC Components.
 
 [SALESFORCE WORLD](http://nikforce.blogspot.com/)
 
----
-
-### 🖥️ Apps
+### 🖥️ Tools
 
 1. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
 2. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
-
----
 
  ### ⚡ Components
 

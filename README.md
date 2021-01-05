@@ -1,13 +1,5 @@
 ## Hi Salesforce Ohana👋
 
-### I'm a Salesforce Consultant and Developer!!
-
-- 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to coding and draw
-
----
-
 Make Your Salesforce development faster using App and LWC Components.
 
 ### 📕 Blog Posts

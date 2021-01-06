@@ -4,7 +4,7 @@ Make Your Salesforce development faster using App and LWC Components.
 
 ### 📕 Blog Posts
 
-[SALESFORCE WORLD](http://nikforce.blogspot.com/)
+[SALESFORCE WORLD](http://nisar-dev.blogspot.com)
 
 ### 🖥️ Tools
 

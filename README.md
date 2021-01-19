@@ -33,7 +33,6 @@ Make Your Salesforce development faster using App and LWC Components.
 ### Languages and Tools:
 
 <img align="left" alt="Salesforce" width="34px" src="https://tootris.com/edu/wp-content/uploads/2020/10/SalesForce-Logo-TOOTRIS.png" />
-<img align="left" alt="Trailhead " width="30px" src="https://res.cloudinary.com/hy4kyit2a/f_auto,fl_lossy,q_70/learn/modules/trailhead_basics/c5e0b83a46f2437a3acdbd0790466bf0_badge.png" />
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />

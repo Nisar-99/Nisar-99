@@ -15,6 +15,7 @@ Make Your Salesforce development faster using App and LWC Components.
 
 - ⚡ [Salesforce LWC Custom Lookup](https://github.com/Nisar-99/Salesforce-LWC-Custom-Lookup)
 - ⚡ [Salesforce LWC Datatable](https://github.com/Nisar-99/Salesforce-LWC-Datatable)
+- ⚡ [Salesforce LWC Popovers](https://github.com/Nisar-99/Salesforce-LWC-Popovers)
 - ⚡ [Salesforce LWC Select Option](https://github.com/Nisar-99/Salesforce-LWC-Select-option)
 - ⚡ [Salesforce LWC Custom Multifile Uploader](https://github.com/Nisar-99/LWC-Multi-File-Uploader)
 

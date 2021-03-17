@@ -8,6 +8,7 @@ Make Your Salesforce development faster using App and LWC Components.
 
 ### 🖥️ Tools
 
+1. [Salesforce LWC Editor `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lwc-editor/ehkpneicmpbdejpoancidgkejlkahjgo)
 1. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
 2. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
 3. [Salesforce Lightning Grid System `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lightning-grid/nenellcdpeipfeeiobkkchdpjdiophpg)

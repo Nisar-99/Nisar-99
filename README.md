@@ -47,6 +47,10 @@ Make Your Salesforce development faster using App and LWC Components.
 <br />
 <br />
 
+### Trailhead:
+
+<img align="left" alt="Salesforce" width="34px" src="https://trailhead.salesforce.com/assets/ranks/ranger-4ff0ee9f9279c163c5fca383a6fdc3b1a20fb9a22049483337e06e3a20b7a42d.png" />
+
 <!--
 **Nisar-99/Nisar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

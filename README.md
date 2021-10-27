@@ -45,7 +45,9 @@ Make Your Salesforce development faster using App and LWC Components.
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <br />
 <br />
-### :zap: Github Stats
+
+### Github Stats:
+
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="60%">
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nisar's Top Languages">
 

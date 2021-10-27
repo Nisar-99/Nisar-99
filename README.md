@@ -1,6 +1,6 @@
 ## Hi Salesforce Ohana👋
 
-Make Your Salesforce development faster using App and LWC Components. <img src="https://komarev.com/ghpvc/?username=Nisar-99&color=brightgreen" alt="watching_count" />
+Make Your Salesforce development faster using App and LWC Components.
 ### 📕 Blog Posts
 
 [Salesforce Tech Bytes](http://nisar-dev.blogspot.com)
@@ -49,6 +49,7 @@ Make Your Salesforce development faster using App and LWC Components. <img src="
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="60%">
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nisar's Top Languages">
 
+ <img src="https://komarev.com/ghpvc/?username=Nisar-99&color=brightgreen" alt="watching_count" />
 <!--
 **Nisar-99/Nisar-99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -48,8 +48,8 @@ Make Your Salesforce development faster using App and LWC Components.
 
 ### Github Stats:
 
-<img  align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="50%">
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisar-99&theme=radical&show_icons=true&border=e4e2e2" />
+<img  align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="49%">
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Nisar-99&theme=radical&show_icons=true&border=e4e2e2" />
 <img   width="100%" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical"  alt="Nisar's Top Languages">
   
 

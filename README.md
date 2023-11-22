@@ -48,14 +48,10 @@ Make Your Salesforce development faster using App and LWC Components.
 
 ### Github Stats:
 
-<img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="60%">
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nisar's Top Languages">
+<img height="180em" align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Nisar-99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Nisar's Github Stats" width="60%">
+<img height="180em" src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nisar's Top Languages">
 
-
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nisar-99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nisar-99&layout=compact&langs_count=8&theme=algolia"/>
-
-
+ 
 
  <img src="https://komarev.com/ghpvc/?username=Nisar-99&color=brightgreen" alt="watching_count" />
 <!--

@@ -52,8 +52,8 @@ Make Your Salesforce development faster using App and LWC Components.
 <img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Nisar-99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Nisar's Top Languages">
 
 
- <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=isar-99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?usernameisar-99&layout=compact&langs_count=8&theme=algolia"/>
+ <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Nisar-99&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Nisar-99&layout=compact&langs_count=8&theme=algolia"/>
 
 
 

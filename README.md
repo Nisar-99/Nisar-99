@@ -8,9 +8,10 @@ Make Your Salesforce development faster using App and LWC Components.
 ### 🖥️ Tools
 
 1. [Lightning Studio `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lwc-editor/ehkpneicmpbdejpoancidgkejlkahjgo)
-1. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
-2. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
-3. [Salesforce Lightning Grid System `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lightning-grid/nenellcdpeipfeeiobkkchdpjdiophpg)
+2. [Salesforce Debug Analyzer `(Chrome Extension)`](https://chromewebstore.google.com/detail/salesforce-debug-analyzer/jebmhhcaiafpcjneboknfkmijegiihoe)
+3. [LWC Snippets `(VS Code Extension)`](https://marketplace.visualstudio.com/items?itemName=Nik-Creation.lwc-salesforce)
+4. [Salesforce Assistant `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-assistant/acpngnlieelljdlljmenkagbonaicccj)
+5. [Salesforce Lightning Grid System `(Chrome Extension)`](https://chrome.google.com/webstore/detail/salesforce-lightning-grid/nenellcdpeipfeeiobkkchdpjdiophpg)
 
  ### ⚡ Components
 
@@ -21,15 +22,6 @@ Make Your Salesforce development faster using App and LWC Components.
 - ⚡ [Salesforce LWC Custom Multifile Uploader](https://github.com/Nisar-99/LWC-Multi-File-Uploader)
 
 ---
-### Connect with me: </b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="40">
-
-<!--[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]-->
-[<img align="left" alt="Nisar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />](https://twitter.com/Nisar_999)
-[<img align="left" alt="Nisar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/nisar99)
-<!--[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]-->
-
-<br/>
 
 ### Languages and Tools:
 
@@ -43,6 +35,7 @@ Make Your Salesforce development faster using App and LWC Components.
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="ReactJS" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/reactjs/reactjs.png" />
 <br />
 <br />
 

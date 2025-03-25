@@ -1,4 +1,4 @@
-## Hi Salesforce Ohana👋
+## Hi Ohana👋
 
 Make Your Salesforce development faster using App and LWC Components.
 ### 📕 Blog Posts
